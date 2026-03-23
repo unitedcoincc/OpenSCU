@@ -147,3 +147,7 @@ To create a globally accessible, transparent settlement infrastructure rooted in
 
 where trade is not constrained by access to external systems,  
 but enabled by shared, verifiable frameworks.
+
+## How It Works
+
+![Open SCU Flow](./docs/assets/flow-diagram.png)
