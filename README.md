@@ -152,3 +152,9 @@ but enabled by shared, verifiable frameworks.
 
 ![Open SCU Flow](./docs/assets/flow-diagram.png)
 *High-level flow of trade settlement through Open SCU’s neutral clearing layer.*
+
+## Contributing
+
+See:
+- /contributors/how-to-contribute.md (getting started)
+- /CONTRIBUTING.md (rules and guidelines)
