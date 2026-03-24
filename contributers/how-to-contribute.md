@@ -116,9 +116,9 @@ Starter Tasks:
 
 ### 1. Explore the Repository
 Read:
-- `/docs/vision.md`  [Vision](../docs/vision.md)  
-- `/docs/architecture.md`  [Architecture](../docs/architecture.md)  
-- `/docs/ucc-model.md` (working draft)  [Settlement Unit Model](../docs/ucc-model.md)
+- [`/docs/vision.md`](../docs/vision.md)  
+- [`/docs/architecture.md`](../docs/architecture.md)  
+- [`/docs/ucc-model.md`](../docs/ucc-model.md) (working draft)
 
 ---
 
