@@ -120,6 +120,12 @@ Read:
 - [`/docs/architecture.md`](../docs/architecture.md)  
 - [`/docs/ucc-model.md`](../docs/ucc-model.md) (working draft)
 
+If you're interested in system-level design:
+
+- Settlement Flow → see Issue (#3)  
+- Asset Model → see Issue (#1)  
+- Interoperability → see Issue (#6)  
+
 ---
 
 ### 2. Check Open Issues
