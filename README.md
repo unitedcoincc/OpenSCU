@@ -127,7 +127,11 @@ Start here:
 - Defining the initial asset reference model  
 - Designing the settlement flow and clearing logic  
 - Establishing oracle data standards  
-- Drafting governance mechanisms  
+- Drafting governance mechanisms
+- Settlement Flow Design (#3)
+- Asset-Referenced Unit Model (#1)
+- Oracle System (#2)
+- Interoperability & Compatibility Framework (#6)
 
 ---
 
@@ -158,3 +162,4 @@ but enabled by shared, verifiable frameworks.
 See:
 - [`/contributors/how-to-contribute.md](contributors/how-to-contribute.md) (getting started)
 - [`/CONTRIBUTING.md](/CONTRIBUTING.md) (rules and guidelines)
+
