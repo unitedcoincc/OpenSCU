@@ -128,10 +128,10 @@ Start here:
 - Designing the settlement flow and clearing logic  
 - Establishing oracle data standards  
 - Drafting governance mechanisms
-- Settlement Flow Design (#3)
-- Asset-Referenced Unit Model (#1)
-- Oracle System (#2)
-- Interoperability & Compatibility Framework (#6)
+- [Settlement Flow Design (#3)](../../issues/3)
+- [Asset-Referenced Unit Model (#1)](../../issues/1)
+- [Oracle System (#2)](../../issues/2)
+- [Interoperability & Compatibility Framework (#6)](../../issues/6)
 
 ---
 
