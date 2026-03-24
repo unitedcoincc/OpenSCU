@@ -118,7 +118,7 @@ Contributors are welcome across multiple domains:
 - Documentation and research  
 
 Start here:
-👉 [`/contributors/how-to-contribute.md`](..contributors/how-to-contribute.md)
+👉 [`/contributors/how-to-contribute.md`](contributors/how-to-contribute.md)
 
 ---
 
@@ -156,5 +156,5 @@ but enabled by shared, verifiable frameworks.
 ## Contributing
 
 See:
-- [`/contributors/how-to-contribute.md](..contributors/how-to-contribute.md) (getting started)
-- [`/CONTRIBUTING.md](../CONTRIBUTING.md) (rules and guidelines)
+- [`/contributors/how-to-contribute.md](contributors/how-to-contribute.md) (getting started)
+- [`/CONTRIBUTING.md](/CONTRIBUTING.md) (rules and guidelines)
