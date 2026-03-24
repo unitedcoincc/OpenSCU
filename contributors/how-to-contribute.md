@@ -122,9 +122,9 @@ Read:
 
 If you're interested in system-level design:
 
-- Settlement Flow → see Issue (#3)  
-- Asset Model → see Issue (#1)  
-- Interoperability → see Issue (#6)  
+- [Settlement Flow (#3)](../../../issues/3)
+- [Asset Model (#1)](../../../issues/1)
+- [Interoperability (#6)](../../../issues/6)
 
 ---
 
