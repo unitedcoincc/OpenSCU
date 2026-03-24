@@ -95,19 +95,19 @@ Defines how decisions are proposed, validated, and implemented.
 
 ---
 
-## What Open SCU Is Not
+## What OpenSCU Is Not
 
 - Not a retail payment system  
 - Not a speculative crypto asset  
 - Not a replacement for existing currencies  
 
-Open SCU operates alongside existing systems as a **parallel settlement infrastructure**.
+OpenSCU operates alongside existing systems as a **parallel settlement infrastructure**.
 
 ---
 
 ## Getting Involved
 
-We are building Open SCU as an open collaboration.
+We are building OpenSCU as an open collaboration.
 
 Contributors are welcome across multiple domains:
 
@@ -118,7 +118,7 @@ Contributors are welcome across multiple domains:
 - Documentation and research  
 
 Start here:
-👉 `/contributors/how-to-contribute.md`
+👉 [`/contributors/how-to-contribute.md`](..contributors/how-to-contribute.md)
 
 ---
 
@@ -133,7 +133,7 @@ Start here:
 
 ## Disclaimer
 
-Open SCU is an open research and development initiative.
+OpenSCU is an open research and development initiative.
 
 It does not represent any government, institution, or financial authority.
 
@@ -156,5 +156,5 @@ but enabled by shared, verifiable frameworks.
 ## Contributing
 
 See:
-- /contributors/how-to-contribute.md (getting started)
-- /CONTRIBUTING.md (rules and guidelines)
+- [`/contributors/how-to-contribute.md](..contributors/how-to-contribute.md) (getting started)
+- [`/CONTRIBUTING.md](../CONTRIBUTING.md) (rules and guidelines)
