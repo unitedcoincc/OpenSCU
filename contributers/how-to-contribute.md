@@ -167,7 +167,7 @@ To maintain quality and credibility:
 
 ## What We Are Building Toward
 
-Open SCU is not a short-term project.
+OpenSCU is not a short-term project.
 
 We are working toward:
 
@@ -193,9 +193,21 @@ You should contribute if you are:
 
 ## Final Note
 
-Open SCU will only succeed if it earns trust.
+OpenSCU will only succeed if it earns trust.
 
 Trust is not claimed.
 It is built—through transparency, rigor, and collaboration.
 
 If that resonates with you, you’re in the right place.
+
+## Contribution Boundaries
+
+To maintain clarity and integrity, all contributions must align with the following:
+
+- OpenSCU is a **settlement system**, not a currency or token
+- No speculative token mechanics or retail use cases
+- No political positioning or alignment with any single state or bloc
+- No unnecessary complexity—prefer simple, explainable models
+- All proposals must clearly state assumptions and trade-offs
+
+Contributions that do not align with these principles may not be accepted.
